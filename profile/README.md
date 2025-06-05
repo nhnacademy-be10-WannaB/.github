@@ -1,18 +1,19 @@
-## WannaB 📚
-
+# WannaB 📚
+[WannaB Team wiki](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki)
+- 회의록, 문서 등을 위키로 관리하고 있습니다
 ---
-#### 도서 쇼핑 사이트
+### 도서 쇼핑 사이트
 - 설명
-### ERD
+## ERD
 
 ---
 - 작성중
-### Architect
+## Architect
 
 ---
 - 작성중
 
-### Tech Stack
+## Tech Stack
 
 ---
 - 작성중
