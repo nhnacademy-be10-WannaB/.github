@@ -4,19 +4,23 @@
 ---
 ### 도서 쇼핑 사이트
 - 설명
+
+<br>
+
 ## ERD
-
----
 - 작성중
+
+<br>
+
 ## Architect
+[Wannab 아키텍쳐 구조도](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki/Wannab-Architecture)
 
----
-- 작성중
+<br>
 
 ## Tech Stack
-
----
 - 작성중
+
+<br>
 
 
 
