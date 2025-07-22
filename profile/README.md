@@ -68,7 +68,6 @@
 
 ### Architect
 [📎 Wannab 아키텍쳐 구조도](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki/Wannab-Architecture)
-![alt text](image.png)
 
 ### Wireframe
 
