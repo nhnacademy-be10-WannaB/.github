@@ -14,9 +14,8 @@
   - [Wireframe](#wireframe)
   - [Architecture](#architect)
   - [Docs](#docs)
-- [🤗 기능 소개](#기능소개)
-- [😆 느낀점](#느낀점)
-
+- [🤗 기능 소개](#-기능-소개)
+- [😆 느낀점](#-느낀점)
 
 ## 🗓️ 프로젝트 개요
 
