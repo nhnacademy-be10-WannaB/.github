@@ -72,7 +72,7 @@
 ### Docs
 [📎 WannaB Team wiki](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki)
 
-## 🤗 기능소개
+## 🤗 기능 소개
 <!-- TODO: 기능 소개 작성 -->
 
 ## 😆 느낀점
