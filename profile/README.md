@@ -58,7 +58,7 @@
 
 | DB           |                     Infra                      |              Tools               |
 | :----------- | :--------------------------------------------: | :------------------------------: |
-| MySQL, Redis |  GitHub Action, Docker, nginx                  | Github, Notion, Dooray, Wiki     |
+| MySQL, Redis |  GitHub Action, Docker, Nginx,Elasticsearch, RabbitMQ | Github, Notion, Dooray, Wiki     |
 
 ### CI/CD
 - ci/cd
