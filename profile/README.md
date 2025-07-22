@@ -53,7 +53,7 @@
 | **Language**        | HTML + CSS                              | Java17                                                         |
 | **IDE**             | IntelliJ                                | IntelliJ                                                       |
 | **Framework**       | -                                       | Spring Boot, Spring Security, Spring JPA, Spring Cloud, Config |
-| **Library**         | Tailwind CSS                            |                                                                |
+| **Library**         | Tailwind CSS                            | -                                                              |
 | **Template Engine** | Thymeleaf	                              | -                                                              |
 
 | DB           |                     Infra                      |              Tools               |
