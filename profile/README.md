@@ -48,17 +48,20 @@
 
 ## 서비스 설계
 ### 기술 스택
-|               | Frontend                                | Backend                                                |
-| ------------- | --------------------------------------- | ------------------------------------------------------ |
-| **Language**  | TypeScript                              | Java17                                                 |
-| **IDE**       | Visual Studio Code                      | IntelliJ                                               |
-| **Framework** | React, Vite                             | Spring Boot, Spring Security, Spring JPA, Spring Cloud |
-| **Library**   | zustand, styled-components, React-query |                                                        |
+|                     | Frontend                                | Backend                                                        |
+| ------------------- | --------------------------------------- | -------------------------------------------------------------- |
+| **Language**        | HTML + CSS                              | Java17                                                         |
+| **IDE**             | IntelliJ                                | IntelliJ                                                       |
+| **Framework**       | -                                       | Spring Boot, Spring Security, Spring JPA, Spring Cloud, Config |
+| **Library**         | Tailwind CSS                            |                                                                |
+| **Template Engine** | Thymeleaf	                              | -                                                              |
 
 | DB           |                     Infra                      |              Tools               |
 | :----------- | :--------------------------------------------: | :------------------------------: |
-| MySQL, Redis | AWS EC2, AWS LightSail, Docker, Jenkins, nginx | GitLab, Jira, Notion, Mattermost |
+| MySQL, Redis |  GitHub Action, Docker, nginx                  | Github, Notion, Dooray, Wiki     |
 
+### CI/CD
+- ci/cd
 
 ### ERD
 [📎 Wannab ERD 구조도](https://www.erdcloud.com/d/X2Sr7WJqRGk2zTpYA)
