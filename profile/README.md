@@ -48,17 +48,27 @@
 
 ## 서비스 설계
 ### 기술 스택
-|                     | Frontend                                | Backend                                                        |
-| ------------------- | --------------------------------------- | -------------------------------------------------------------- |
-| **Language**        | HTML + CSS                              | Java17                                                         |
-| **IDE**             | IntelliJ                                | IntelliJ                                                       |
-| **Framework**       | -                                       | Spring Boot, Spring Security, Spring JPA, Spring Cloud, Config |
-| **Library**         | Tailwind CSS                            | -                                                              |
-| **Template Engine** | Thymeleaf	                              | -                                                              |
+### 🔹 주요 기술 스택
 
-| DB           |                     Infra                      |              Tools               |
-| :----------- | :--------------------------------------------: | :------------------------------: |
-| MySQL, Redis |  GitHub Action, Docker, Nginx, Elasticsearch, RabbitMQ | Github, Notion, Dooray, Wiki     |
+| **구분** | **Frontend** | **Backend** |
+| --- | --- | --- |
+| **Language** | HTML, CSS | Java **21** |
+| **IDE** | IntelliJ | IntelliJ |
+| **Framework** | - | Spring Boot, Spring Security, Spring Web, Spring JPA, Spring Cloud (Gateway, Config, OpenFeign, Eureka), Spring AOP, Spring Session Redis |
+| **Library** | Tailwind CSS | jjwt, Lombok, OpenFeign, Spring Validation (Jakarta), Spring Mail, Commons DBCP2, QueryDSL, Spring REST Docs, RabbitMQ, Actuator |
+| **Template** | Thymeleaf | - |
+
+---
+
+### 🔹 공통 기술 스택
+
+| **구분** | **기술** |
+| --- | --- |
+| **DB** | MySQL, Redis, H2 |
+| **Infra** | GitHub Action, Docker, Nginx, Elasticsearch, RabbitMQ, Eureka, Config Server, MinIO |
+| **Tools** | GitHub, Notion, Dooray, Wiki |
+| **Build** | Maven, Spring Boot Maven Plugin, **APT Plugin**, Asciidoctor, Spring Configuration Processor, **JaCoCo (Test Coverage)** |
+| **Test** | Spring Boot Test, Spring Security Test, Spring REST Docs, Spring Rabbit Test, Spring Cloud Contract Stub Runner |
 
 ### CI/CD
 <img width="2772" height="636" alt="Group 1" src="https://github.com/user-attachments/assets/af60b58f-aa5e-4756-ac24-c40b5c829e07" />
