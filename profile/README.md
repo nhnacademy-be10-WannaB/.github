@@ -35,7 +35,7 @@
 |            [박지후](https://github.com/jihoo1214)            |             [양재원](https://github.com/yang-jaewon)              |             [임재은](https://github.com/LimJaeEun0930)              |             [정민수](https://github.com/Minsooooooo)              |
 |:---------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | <img width="130px" src="https://github.com/jihoo1214.png" /> | <img width="130px" src="https://github.com/yang-jaewon.png" /> | <img width="130px" src="https://github.com/LimJaeEun0930.png" /> | <img width="130px" src="https://github.com/Minsooooooo.png" /> |
-|                            회원 서비스                         |                         회원 서비스                             |                         주문 서비스                               |                             주문 서비스                                |
+|                            회원 서비스                         |                         회원 서비스                             |                         주문 서비스, 장바구니 서비스                        |                             주문 서비스                                |
 
 
 
