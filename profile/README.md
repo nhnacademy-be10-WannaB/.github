@@ -30,7 +30,7 @@
 |             [고충원](https://github.com/won-ee)              |             [김동균](https://github.com/dkyun97)              |              [김영대](https://github.com/yeong-dae)              |             [김훈민](https://github.com/gnsals0904)              |
 |:---------------------------------------------------------:|:----------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|
 | <img width="130px" src="https://github.com/won-ee.png" /> | <img width="130px" src="https://github.com/dkyun97.png" /> | <img width="130px" src="https://github.com/yeong-dae.png" /> | <img width="130px" src="https://github.com/gnsals0904.png" /> |
-|                  Front, CI/CD, 도서 서비스                   |                  결제, 쿠폰 서비스                             |                       도서 서비스                               |      팀장, CI/CD, 도서 서비스                                      |
+|                  Front, CI/CD, 도서 서비스                   |                  결제, 쿠폰 서비스                             |                                                             |      팀장, CI/CD, 도서 서비스                                      |
 
 |            [박지후](https://github.com/jihoo1214)            |             [양재원](https://github.com/yang-jaewon)              |             [임재은](https://github.com/LimJaeEun0930)              |             [정민수](https://github.com/Minsooooooo)              |
 |:---------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
@@ -218,8 +218,7 @@
   <tr>
     <th rowspan="3">
       <a href="https://github.com/yeong-dae">김영대</a><br />
-      <img width="130px" src="https://github.com/yeong-dae.png" /><br />
-      도서 서비스
+      <img width="130px" src="https://github.com/yeong-dae.png" /><br /> 
     </th>
     <td colspan="2" rowspan="3"></td>
   </tr>
