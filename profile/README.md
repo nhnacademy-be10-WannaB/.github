@@ -80,7 +80,7 @@
 
 ### Wireframe
 
-[📎 Figma Link](https://www.figma.com/design/9w4KLGmj0vffk4ICcuXzkO/WannaB?node-id=0-1&p=f&t=mgBQ7ixk5J19bwfK-0)
+[📎 Figma Link](https://www.figma.com/community/file/1529710551736698846)
 
 ### Docs
 [📎 WannaB Team wiki](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki)
