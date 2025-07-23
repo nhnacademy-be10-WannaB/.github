@@ -61,7 +61,8 @@
 | MySQL, Redis |  GitHub Action, Docker, Nginx, Elasticsearch, RabbitMQ | Github, Notion, Dooray, Wiki     |
 
 ### CI/CD
-- ci/cd
+<img width="2772" height="636" alt="Group 1" src="https://github.com/user-attachments/assets/af60b58f-aa5e-4756-ac24-c40b5c829e07" />
+
 
 ### ERD
 [📎 Wannab ERD 구조도](https://www.erdcloud.com/d/X2Sr7WJqRGk2zTpYA)
