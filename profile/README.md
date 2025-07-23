@@ -73,7 +73,7 @@
 
 
 ### ERD
-[📎 Wannab ERD 구조도](https://www.erdcloud.com/d/X2Sr7WJqRGk2zTpYA)
+[📎 Wannab ERD 구조도](https://www.erdcloud.com/d/pxzhyqs65xYJiXHvJ)
 
 ### Architect
 [📎 Wannab 아키텍쳐 구조도](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki/Wannab-Architecture)
