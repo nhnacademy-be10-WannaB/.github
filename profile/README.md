@@ -58,8 +58,6 @@
 | **Library** | Tailwind CSS | jjwt, Lombok, OpenFeign, Spring Validation (Jakarta), Spring Mail, Commons DBCP2, QueryDSL, Spring REST Docs, RabbitMQ, Actuator |
 | **Template** | Thymeleaf | - |
 
----
-
 ### 공통 기술 스택
 
 | **구분** | **기술** |
