@@ -1,4 +1,4 @@
-# WannaB 📚
+<img width="3173" height="1155" alt="WannaB-just-Architecture" src="https://github.com/user-attachments/assets/8f91fdee-1699-45cd-be32-fbdac7480863" /># WannaB 📚
 
 > NHN ACADEMY 최종 프로젝트 <br>
 > 도서 쇼핑 사이트
@@ -74,9 +74,10 @@
 
 ### ERD
 [📎 Wannab ERD 구조도](https://www.erdcloud.com/d/pxzhyqs65xYJiXHvJ)
+<img width="5290" height="2932" alt="Copy of Wannab" src="https://github.com/user-attachments/assets/fe0160a1-2421-4a03-bd3f-0ea991d3d6ef" />
 
 ### Architect
-[📎 Wannab 아키텍쳐 구조도](https://github.com/nhnacademy-be10-WannaB/WannaB-wiki/wiki/Wannab-Architecture)
+<img width="3173" height="1155" alt="WannaB-just-Architecture" src="https://github.com/user-attachments/assets/10002993-fac9-4a7f-8ae8-a93a01c2068a" />
 
 ### Wireframe
 
