@@ -1,4 +1,4 @@
-<img width="3173" height="1155" alt="WannaB-just-Architecture" src="https://github.com/user-attachments/assets/8f91fdee-1699-45cd-be32-fbdac7480863" /># WannaB 📚
+# WannaB 📚
 
 > NHN ACADEMY 최종 프로젝트 <br>
 > 도서 쇼핑 사이트
@@ -94,6 +94,7 @@
     - CI/CD
     - NHN CLOUD 기반 배포
     - Docker를 활용한 컨테이너화
+    - 블루 그린 및 롤링 방식의 무중단 배포 적용
     - Nginx를 활용한 로드 밸런싱 및 리버스 프록시 설정
 
 ### **🖥️  프론트(figma ,html, css)**
@@ -141,6 +142,10 @@
 ### **🔍 검색**
 
 - 담당자: 김훈민
+  - Elasticsearch 기반 검색 기능 구현
+    - nori, jaso 등을 통한 한국어 맞춤 검색
+    - index properties 가중치로 통합 검색
+    - 초성 저장 파이프라인 구축으로 초성 검색
 
 ### **☑️ 카테고리**
 
@@ -233,7 +238,8 @@
       <img width="130px" src="https://github.com/gnsals0904.png" /><br />
       팀장, CI/CD, 도서 서비스
     </th>
-    <td colspan="2" rowspan="3"></td>
+    <td colspan="2" rowspan="3">처음에 팀장으로 8인 팀을 이끌게 되어 걱정이 많았습니다😢 MSA 기반의 프로젝트를 처음 진행하는 만큼 CI/CD 구축과 아키텍쳐 구조를 설계하는데 어려움이 있었지만, 팀장으로서 책임감을 가지고 공부한 결과 잘 마무리 할 수 있었던 것 같습니다. 그 덕분에 정말 많은 것들을 배울 수 있었습니다. 팀원 분들이 모두 열심히 해준 덕분이라고 생각합니다..! 모두 고생하셨습니다 🎉
+    </td>
   </tr>
   <tr></tr>
   <tr></tr>
