@@ -42,7 +42,7 @@
 <br>
 
 ## 서비스 소개
-- 동영상 삽입
+[📎 YouTube Link](https://www.youtube.com/watch?v=FNd26obeZ-I)
 
 <br>
 
