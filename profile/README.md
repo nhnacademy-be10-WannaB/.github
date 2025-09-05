@@ -224,11 +224,11 @@
   <!-- 김동균 -->
   <tr>
     <th rowspan="3">
-      <a href="https://github.com/dkyun97">김동균</a><br />
-      <img width="130px" src="https://github.com/dkyun97.png" /><br />
+      <a href="https://github.com/gyunux">김동균</a><br />
+      <img width="130px" src="https://github.com/gyunux.png" /><br />
       결제, 쿠폰 서비스
     </th>
-    <td colspan="2" rowspan="3">프로젝트를 시작하기전엔 MSA 아키텍처를 전혀 모르는 상태에서 8주간 잘 해낼 수 있을까에 대해서 많은 두려움이 있었지만 결제&쿠폰 서비스를 맡으면서 MSA 전체적인 흐름 및 API에서의 책임 및 역할 그리고 다양한 예외상황을 겪어보는 아주 유의미한 시간을 보냈던거같습니다.</td>
+    <td colspan="2" rowspan="3">프로젝트를 시작하기전엔 MSA 아키텍처를 전혀 모르는 상태에서 8주간 잘 해낼 수 있을까에 대해서 많은 두려움이 있었지만 결제&쿠폰 서비스를 맡으면서 MSA 전체적인 흐름 및 API에서의 책임 및 역할 그리고 다양한 예외상황을 겪어보는 경험을 했었습니다.</td>
   </tr>
   <tr></tr>
   <tr></tr>
