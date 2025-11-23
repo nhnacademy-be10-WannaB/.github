@@ -1,6 +1,5 @@
 # WannaB 📚
 
-> NHN ACADEMY 최종 프로젝트 <br>
 > 도서 쇼핑 사이트
 ### Wannab 도메인
 [📎 WannaB](https://wannab.shop/)
